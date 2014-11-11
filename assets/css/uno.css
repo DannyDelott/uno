@@ -1,4 +1,4 @@
-@import 'http://fonts.googleapis.com/css?family=Raleway:400,700|Roboto:300,400)';
+@import 'http://fonts.googleapis.com/css?family=Raleway:400,700|Roboto :300,400)';
 /* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
@@ -925,7 +925,7 @@ html {
   max-height: 100%; }
 
 body {
-  font-family: "Georgia", sans-serif;
+  font-family: "Georgia";
   font-size: 1em;
   color: #666666; }
 
