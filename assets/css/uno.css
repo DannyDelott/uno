@@ -928,6 +928,10 @@ body {
   font-family: "Georgia", sans-serif;
   font-size: 1em;
   color: #666666; }
+  
+  .titletext {
+	font-family: Times, "Times New Roman", Georgia, serif;
+  }
 
 ::selection {
   background: #fae3df; }
