@@ -1103,6 +1103,7 @@ pre {
 .container {
   position: relative;
   z-index: 500;
+  background-color:#ff0000;
   width: 940px;
   margin: 0 auto; }
 
