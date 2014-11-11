@@ -925,9 +925,9 @@ html {
   max-height: 100%; }
 
 body {
-  font-family: Times, "Times New Roman", Georgia, serif;
+ font-family:source-sans-pro,sans-serif;
   font-size: 1em;
-  color: #666666; }
+  color: #333333; }
   
   .titletext {
     font-family: "Roboto";
