@@ -925,12 +925,12 @@ html {
   max-height: 100%; }
 
 body {
-  font-family: "Georgia", sans-serif;
+  font-family: Times, "Times New Roman", Georgia, serif;
   font-size: 1em;
   color: #666666; }
   
   .titletext {
-	font-family: Times, "Times New Roman", Georgia, serif;
+    font-family: "Georgia", sans-serif;
   }
 
 ::selection {
