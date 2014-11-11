@@ -971,8 +971,8 @@ h1 {
 
 .normalspacing {
 	letter-spacing:normal;
-	font-size:1.8em;
-	font-weight:700;}
+	font-weight:700;
+	font-size:medium;}
 
 h2 {
   font-size: 2.2em; 
