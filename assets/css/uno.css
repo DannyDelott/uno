@@ -927,6 +927,7 @@ html {
 body {
  font-family:source-sans-pro,sans-serif;
   font-size: 1em;
+  background-color:#ff0000;
   }
   
   .titletext {
@@ -1103,7 +1104,6 @@ pre {
 .container {
   position: relative;
   z-index: 500;
-  background-color:#ff0000;
   width: 940px;
   margin: 0 auto; }
 
