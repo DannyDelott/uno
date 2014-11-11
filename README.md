@@ -1,5 +1,8 @@
-# Uno for Ghost
+# This is a fork
 
+This is my personal fork of the Uno theme for the Ghost blogging platform.  To view this particular flavor of Uno, visit my blog at http://www.dannydelott.com.
+
+## Uno for Ghost
 
 Uno for Ghost is the result of my first 'mini-project' of 2014. The theme features a minimal, responsive design with a cover page, disqus comment integration, foundation icons and various colour options.
 
