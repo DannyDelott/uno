@@ -969,7 +969,7 @@ h1 {
   letter-spacing: .05em; }
 
 .normalspacing {
-	letter-spacing:none;
+	letter-spacing:normal;
 	font-weight:700;}
 
 h2 {
