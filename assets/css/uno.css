@@ -964,7 +964,6 @@ h5 {
   -webkit-font-smoothing: antialiased; }
 
 h1 {
-  font-family: "Roboto";
   margin-top: 0;
   font-size: 3.2em;
   line-height: 1.2em;
@@ -1241,6 +1240,7 @@ hr {
 
 .panel-main {
   display: table;
+  font-family: "Roboto", serif;
   width: 100%;
   height: 100%; }
 
