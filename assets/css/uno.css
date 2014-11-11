@@ -969,7 +969,8 @@ h1 {
   letter-spacing: .05em; }
 
 .normalspacing {
-	letter-spacing:none;}
+	letter-spacing:none;
+	font-weight:700;}
 
 h2 {
   font-size: 2.2em; 
