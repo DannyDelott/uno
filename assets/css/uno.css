@@ -972,6 +972,7 @@ h1 {
 .normalspacing {
 	letter-spacing:normal;
 	font-weight:700;
+	line-height:normal;
 	font-size:64%}
 
 h2 {
@@ -1442,8 +1443,9 @@ i {
 .post-list__post-title {
   margin-top: 0;
   margin-bottom: .2em;
-  font-size: 64%;
+  font-size: 1.5em;
   font-weight:700;
+  line-height: 1.3em; 
   font-family:source-sans-pro,sans-serif;
 }
   .post-list__post-title a {
