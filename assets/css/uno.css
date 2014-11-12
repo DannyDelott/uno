@@ -972,6 +972,8 @@ h1 {
 .normalspacing {
 	letter-spacing:normal;
 	font-weight:700;
+	margin-top:0px;
+	margin-bottom:0px;
 	line-height:44px;
 	font-size:36px;}
 
