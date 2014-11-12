@@ -972,7 +972,7 @@ h1 {
 .normalspacing {
 	letter-spacing:normal;
 	font-weight:700;
-	line-height:0;
+	line-height:1;
 	font-size:22px;}
 
 h2 {
