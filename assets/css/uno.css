@@ -943,7 +943,7 @@ body {
 
 a {
   text-decoration: none;
-  color: #e25440; }
+  color: #0000FF; }
   a:hover {
     text-decoration: underline;
     -o-transition: .5s;
@@ -1098,7 +1098,7 @@ pre {
   position: relative;
   display: inline-block;
   padding: 8px 18px 9px 18px;
-  background: #e25440;
+  background: #0000FF;
   border-radius: 3px;
   text-align: center;
   color: #FFF; }
@@ -1315,14 +1315,14 @@ hr {
 
 .btn, .navigation__item a {
   padding: 10px 20px;
-  border: 1px solid #e25440;
+  border: 1px solid #0000FF;
   border-radius: 20px;
   font-size: .9em;
   font-weight: bold;
   font-family: "Roboto";
   letter-spacing: 1px;
   text-shadow: none;
-  color: #e25440;
+  color: #0000FF;
   -webkit-font-smoothing: antialiased; }
   .btn:hover, .navigation__item a:hover {
     border-color: #424BC9; }
