@@ -1325,7 +1325,8 @@ hr {
   color: #0000B3;
   -webkit-font-smoothing: antialiased; }
   .btn:hover, .navigation__item a:hover {
-    border-color: #424BC9; }
+    border-color: #424BC9;
+    text-decoration:none; }
 
 .btn-secondary {
   border-color: #5ba4e5;
